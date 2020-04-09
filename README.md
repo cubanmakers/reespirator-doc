@@ -2,6 +2,7 @@
 
 Este repositorio pretende documentar y organizar los pasos para fabricar el prototipo  **Reespirator**, un respirador open-source de bajo coste basado en el sistema de ventilación mecánica Jackson-Rees, para todas aquellas personas, organizaciones o empresas que quieran fabricarlo.
 
+> La información sobre forks y más actualizada está en el siguiente [repositorio](https://gitlab.com/reespirator "INFORMACIÓN ACTUALIZADA") 
 
 > ESTA DOCUMENTACIÓN ESTÁ EN ELABORACIÓN. 
 
